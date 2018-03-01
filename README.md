@@ -1,2 +1,3 @@
 # hello-world
-Doing the Hello World thing
+
+Hey my name's Sergio. I'm writing things down because why not?
